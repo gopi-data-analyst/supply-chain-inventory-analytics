@@ -25,7 +25,6 @@ The objective is to identify stock-out risks, evaluate supplier performance, mea
 - SQL
 - GitHub
 - CSV
-- Tableau or Python for future visualisation
 
 ## Database Tables
 
